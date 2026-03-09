@@ -11,7 +11,7 @@ impactados por la Arquitectura Empresarial.
 - Organización: CECAR
 - Descripción: Fintech(Finanzas Tecnologia) de microcreditos
 - Fecha: 2026
-- Autor(es):Jose Peralta
+- Autor(es): Jose Peralta
 
 ## Core Enterprise Units
 
